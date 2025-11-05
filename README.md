@@ -1,6 +1,6 @@
 # Cat Cafe Idle Game
 
-A delightful idle clicker game built with Flutter where you run your own cat-themed coffee shop! Brew "Catpuccinos", train adorable server cats, and recruit cafe cats to automate your coffee empire.
+An idle clicker game built with Flutter where you run your own cat-themed coffee shop! Brew "Catpuccinos", train adorable server cats, and recruit cafe cats to automate your coffee empire.
 
 ## Showcase
 <img width="1250" height="1042" alt="image" src="https://github.com/user-attachments/assets/e95b66df-314b-4151-b3b8-e7bbd8c9ce43" />
